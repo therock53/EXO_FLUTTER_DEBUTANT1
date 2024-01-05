@@ -17,5 +17,8 @@ Voici là quelques ressources flutter permettant d'avoir accès aux connaissance
     Votre application doive correspondre au schéma suivant:
 ![Template](https://apcpedagogie.com/wp-content/uploads/2023/02/Exercices-et-TP-Flutter-Serie-01-ex01.jpg)
 
+<<<<<<< HEAD
 ## Résultat Final
 ![Résultat](lib/apercu/resultat.jpg)
+=======
+
